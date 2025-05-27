@@ -25,8 +25,8 @@ public class Product
 
 class Program
 {
-    private static readonly string endpoint = "https://cosmicworks-lab03.documents.azure.com:443/";
-    private static readonly string key = "aV7xzTqjdFTHrfuFcqBifXJxsNBjEvLqZGXu0vAc9Be7ywSj9IpDeogkK1zlyqjsacpSFGlNvFFxACDbR9Gh6Q==";
+    private static readonly string endpoint = "";
+    private static readonly string key = "";
     private static readonly string databaseId = "cosmicworks";
     private static readonly string containerId = "products";
 
