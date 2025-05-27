@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-string endpoint = "https://cosmicworks-lab03.documents.azure.com:443/";  // Paste from Azure portal
-string key = "aV7xzTqjdFTHrfuFcqBifXJxsNBjEvLqZGXu0vAc9Be7ywSj9IpDeogkK1zlyqjsacpSFGlNvFFxACDbR9Gh6Q==";            // From Azure portal
+string endpoint = "";  // Paste from Azure portal
+string key = "==";            // From Azure portal
 
 CosmosClient client = new CosmosClient(endpoint, key);
 
